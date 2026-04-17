@@ -1,4 +1,4 @@
-# Remote Sensing Data Processing and Co-Registration Pipeline
+Enhancement of Spatial Resolution of Low-Resolution Multispectral Satellite Imagery Using Pan Sharpening.
 
 A Python-based geospatial workflow for preprocessing, visualizing, and checking co-registration between remote sensing images over a selected area of interest. This project is focused on building a clean foundation for machine learning and Earth observation workflows using **Landsat 8** and **Sentinel-2** data.
 
