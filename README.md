@@ -103,10 +103,12 @@ This project produces:
 Add your own figures here once you run the pipeline.
 
 ### AOI map
-![AOI map](images/aoi-map.png)
+<img width="1920" height="700" alt="Figure_1" src="https://github.com/user-attachments/assets/0954ae74-5862-445a-9184-8489e7b602b2" />
+
 
 ### Landsat image
-![Landsat image](images/landsat-central-park.png)
+
+
 
 ### Sentinel-2 image
 ![Sentinel-2 image](images/sentinel-central-park.png)
@@ -118,6 +120,8 @@ Add your own figures here once you run the pipeline.
 ![Co-registration check](images/coregistration-check.png)
 
 ## Example Output
+<img width="1200" height="500" alt="Figure_2" src="https://github.com/user-attachments/assets/de4548fe-a6d6-4895-b6a4-de2421d940a8" />
+
 
 A successful run should show:
 - clear cropping to the Central Park boundary,
