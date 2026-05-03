@@ -142,6 +142,3 @@ Planned improvements for this project include:
 
 This repository is being developed as part of a remote sensing and machine learning learning path. The first goal is to build a reliable preprocessing pipeline before moving to model training.
 
-## License
-
-Add your preferred license here.
